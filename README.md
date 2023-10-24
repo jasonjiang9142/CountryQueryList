@@ -1,8 +1,8 @@
-# React + Vite
+# Country Query
+**Description:** This is a Country Query program that displays all the given countries that speak a specific language
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+https://github.com/jasonjiang9142/CountryQueryList/assets/69778744/43800fa1-7d40-4435-82e2-4ed593a7daea
+
